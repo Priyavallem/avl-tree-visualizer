@@ -22,7 +22,7 @@ self-balancing Binary Search Tree operations step by step.
 4. Use visual highlights to understand tree balancing
 
 ##  Live Demo
-(Add GitHub Pages link here after deployment)
+https://priyavallem.github.io/avl-tree-visualizer/
 
 ## Future Enhancements
 - Delete operation visualization
